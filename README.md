@@ -10,9 +10,11 @@ Como usar
 Instale o TextBlob:
 
 pip install textblob
+
 Execute o script:
 
 python phrases.py
+
 Digite frases em inglês para análise ou digite sair para encerrar.
 Observações
 O aplicativo funciona melhor com frases em inglês.
